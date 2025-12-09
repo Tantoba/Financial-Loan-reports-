@@ -36,7 +36,7 @@ This project provides a full analysis of loan application data to understand bor
 ├── README.md
 
 └── requirements.txt
-
+--
 ## 🎯 Objectives
 
 📌 Analyze borrowers' demographic and financial attributes
@@ -48,6 +48,7 @@ This project provides a full analysis of loan application data to understand bor
 📌 Build clear visualizations for financial insights
 
 📌 Provide actionable insights for lending decisions
+
 
 ## 🧾 Dataset Summary
 
@@ -74,6 +75,7 @@ Column Description
 -Credit_History Credit score flag
 
 -Loan_Status Approved, Rejected, or Default
+
 
 
 ## 🔍 Analysis Workflow
@@ -125,12 +127,28 @@ Married applicants show slightly higher approval rates
 
 ## 🛠 Tools Used
 
-Python – pandas, numpy, matplotlib, seaborn
+**Pivot query** : For data Cleaning and transformation 
 
-Jupyter Notebook
+**PivotTable** : For Analysing data
 
-Power BI/Tableau (optional dashboards)
+**Pivot Chart** : For Visualization 
 
-GitHub for version control
+## Features
+
+Interactive Excel dashboard with slicers (Age Group, Country, Gender)
+
+---
+
+## Data
+### Raw Dataset
+The original dataset used for this analysis can be found in the folder below:
+
+Financial Loan Reports :
+[Download here](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z?usp=sharing)
+
+### Visualization
+Interactive Power BI dashboard:
 
 
+### **README** Documentation
+Full project documentation:
