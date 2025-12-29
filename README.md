@@ -191,6 +191,7 @@ The file contains all the SQL queries used to extract the KPIs and others values
 Full project documentation:
 
 # Result & Insights
+### Key Performance Indicators (KPIs)
 
 **Total loan Application** : 38.58k
 
@@ -205,6 +206,7 @@ Full project documentation:
 **Average Dti** : 13.33%
 
 ## Key Findings 
+
 
 
 
