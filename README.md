@@ -60,26 +60,11 @@ Column Description
 -Loan_ID Unique loan identifier | Applicant Address state
 
 |Application Type | Employee length | Employee Title |
-Grade | Home Ownership | Issue Date | Last payment date |
-Loan status | Purpose
+Grade | Home Ownership | Issue Date | Last payment date | 
+Loan status | Purpose | Loan amount Term |  Verification status| 
+| Annual income | Dti | Installment | Interest rate | Loan amount | 
+Total account | Total payment
 
--Loan amount Term 
-
--Verification status
-
--Annual income
-
--Dti
-
--Installment
-
--Interest rate
-
--Loan amount
-
--Total account
-
--Total payment
 --
 
 ### Project goal
@@ -204,6 +189,7 @@ The file contains all the SQL queries used to extract the KPIs and others values
 
 ### **README** Documentation
 Full project documentation:
+
 
 
 
