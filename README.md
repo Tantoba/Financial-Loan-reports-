@@ -57,24 +57,25 @@ This project provides a full analysis of loan application data to understand bor
 Column Description
 
 -Loan_ID Unique loan identifier
-
--Gender Applicant gender
-
--Married Marital status
-
--Dependents Number of dependents
-
--Education Education level
-
--ApplicantIncome Monthly income
-
--CoapplicantIncome Partner’s income
-
--LoanAmount Requested loan amount
-
--Credit_History Credit score flag
-
--Loan_Status Approved, Rejected, or Default
+-Applicant Address state
+-Application Type
+-Employee length (years of work)
+-Employee Title
+-Grade (level)
+-Home Ownership 
+-Issue Date
+-Last payment date
+-Loan status
+-Purpose
+-Loan amount Term 
+-Verification status
+-Annual income
+-Dti
+-Installment
+-Interest rate
+-Loan amount
+-Total account
+-Total payment
 
 
 
@@ -95,35 +96,37 @@ Outlier detection & correction
 
 Income distribution analysis
 
-Loan approval rates segmented by demographics
+Loan status analysis 
 
-Credit history impact
+Correlation between Good loan and Bad loan
 
 Loan amount trends
 
-Default pattern analysis
+Loan default pattern analysis
 
 
 ### 3️⃣ Visualizations
 
-Distribution plots (Income, Loan Amount)
+- Borrower application and income distribution
 
-Approval vs. Denial patterns
+- Loan application rate by Application type, purpose and verification 
 
-Credit vs. Loan Performance
+- Loan amount vs. default risk performance 
 
-Heatmaps & correlation matrices
+- Heatmaps & correlation matrices
+
 
 
 
 ## 4️⃣ Insights (Replace with your key findings)
 
-Borrowers with strong credit history are significantly more likely to be approved
+- Borrowers with hight annual income are significantly more likely to be approved
 
-Loan default risks increase with high debt-to-income ratios
+- Loan default risks increase with high debt-to-income ratios
 
-Married applicants show slightly higher approval rates
+- Good Loan is significantly higher at the rate of 83.33% which reflects higher profits from the revenue made.
 
+- 2nd Quarter shows the highest rate of Good and Bad loan application.
 
 ## 🛠 Tools Used
 
@@ -133,9 +136,14 @@ Married applicants show slightly higher approval rates
 
 **Pivot Chart** : For Visualization 
 
+** SQL server** : To extract KPIs and other data
+
 ## Features
 
-Interactive Excel dashboard with slicers (Age Group, Country, Gender)
+Interactive Excel dashboard with slicers ( Home_ownership, loan_status, Purpose, Term)
+
+Includes a file containing all SQL queries used in the report
+
 
 ---
 
@@ -147,7 +155,12 @@ Financial Loan Reports :
 [Download here](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z?usp=sharing)
 
 ### Visualization
-Interactive Power BI dashboard:
+Interactive Excel dashboard:
+[View Excel Dashboard]
+
+## SQL File
+The file contains all the SQL queries used to extract the KPIs and others values 
+[Download here]
 
 
 ### **README** Documentation
