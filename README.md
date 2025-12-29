@@ -58,7 +58,6 @@ This project provides a full analysis of loan application data to understand bor
 Column Description
 
 -Loan_ID Unique loan identifier | Applicant Address state
-
 |Application Type | Employee length | Employee Title |
 Grade | Home Ownership | Issue Date | Last payment date | 
 Loan status | Purpose | Loan amount Term |  Verification status| 
@@ -67,7 +66,7 @@ Total account | Total payment
 
 --
 
-### Project goal
+## 📂Project goal
 
 The final Excel interactive Dashboard answers the following problem statements 
 
@@ -116,7 +115,7 @@ Data type formatting
 Outlier detection & correction
 
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+## 2️⃣ Exploratory Data Analysis (EDA)
 
 Income distribution analysis
 
@@ -129,7 +128,7 @@ Loan amount trends
 Loan default pattern analysis
 
 
-### 3️⃣ Visualizations
+## 3️⃣ Visualizations
 
 - Borrower application and income distribution
 
@@ -152,7 +151,9 @@ Loan default pattern analysis
 
 - 2nd Quarter shows the highest rate of Good and Bad loan application.
 
-## 🛠 Tools Used
+--
+
+## 🛠💻Tools Used
 
 **Pivot query** : For data Cleaning and transformation 
 
@@ -160,7 +161,7 @@ Loan default pattern analysis
 
 **Pivot Chart** : For Visualization 
 
-** SQL server** : To extract KPIs and other data
+**SQL server** : To extract KPIs and other data
 
 ## Features
 
@@ -189,6 +190,7 @@ The file contains all the SQL queries used to extract the KPIs and others values
 
 ### **README** Documentation
 Full project documentation:
+
 
 
 
