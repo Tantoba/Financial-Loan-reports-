@@ -98,6 +98,41 @@ Column Description
 -Total payment
 
 
+### Project goal
+
+The final Excel interactive Dashboard answers the following problem statements 
+
+1.	The Percentage of good and Bad loan ?
+
+2.	Total application for Good and Bad loan ?
+
+3.	Employee length with the highest loan application ?
+
+4.	Total amount of unverified loan application ?
+
+5.	Purpose with the highest loan application ?
+
+6.	 Employee title that are likely to receive approval ?
+
+7.	Amount of loan verification based on Term 
+
+8.	Good and Bad loan quarterly trend ?
+
+9.	Relationship between annual income and loan application by grade ?
+
+10.	State with highest loan application ?
+
+11.	What are the Loan status with respect to all KPIs
+
+12.	Loan application monthly trend 
+
+13.	Loan application based on Purpose that likely to charged off ?
+
+14.	Employees length with loan application disapproved?
+
+15.	Total Funded amount received from Home owner?
+
+
 
 ## 🔍 Analysis Workflow
 
@@ -185,3 +220,4 @@ The file contains all the SQL queries used to extract the KPIs and others values
 
 ### **README** Documentation
 Full project documentation:
+
