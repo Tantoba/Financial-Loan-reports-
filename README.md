@@ -37,6 +37,7 @@ This project provides a full analysis of loan application data to understand bor
 
 └── requirements.txt
 --
+
 ## 🎯 Objectives
 
 📌 Analyze borrowers' demographic and financial attributes
@@ -96,7 +97,7 @@ Column Description
 -Total account
 
 -Total payment
-
+--
 
 ### Project goal
 
@@ -104,13 +105,13 @@ The final Excel interactive Dashboard answers the following problem statements
 
 1.	The Percentage of good and Bad loan ?
 
-2.	Total application for Good and Bad loan ?
+2.	How verification affect Good loan and Bad loan ?
 
 3.	Employee length with the highest loan application ?
 
 4.	Total amount of unverified loan application ?
 
-5.	Purpose with the highest loan application ?
+5.	Purpose with disapproved loan application ?
 
 6.	 Employee title that are likely to receive approval ?
 
@@ -120,13 +121,13 @@ The final Excel interactive Dashboard answers the following problem statements
 
 9.	Relationship between annual income and loan application by grade ?
 
-10.	State with highest loan application ?
+10.	State with highest funded application ?
 
-11.	What are the Loan status with respect to all KPIs
+11.	Loan status affect loan approval 
 
 12.	Loan application monthly trend 
 
-13.	Loan application based on Purpose that likely to charged off ?
+13.	Loan application based on Grade that are likely to charged off ?
 
 14.	Employees length with loan application disapproved?
 
@@ -220,4 +221,5 @@ The file contains all the SQL queries used to extract the KPIs and others values
 
 ### **README** Documentation
 Full project documentation:
+
 
