@@ -193,13 +193,19 @@ Full project documentation:
 # Result & Insights
 
 **Total loan Application** : 38.58k
+
 **Total Funded Amount** : $473.07M
+
 **Total Funded Applications** : $435.76M
+
 **Average Annual income** : $69.64k
+
 **Average Interest rate** : 12.05%
+
 **Average Dti** : 13.33%
 
 ## Key Findings 
+
 
 
 
