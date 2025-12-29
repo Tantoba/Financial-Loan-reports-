@@ -36,7 +36,7 @@ This project provides a full analysis of loan application data to understand bor
 ├── README.md
 
 └── requirements.txt
---
+---
 
 ## 🎯 Objectives
 
@@ -64,7 +64,6 @@ Loan status | Purpose | Loan amount Term |  Verification status|
 | Annual income | Dti | Installment | Interest rate | Loan amount | 
 Total account | Total payment
 
---
 
 ## 📂Project goal
 
@@ -100,7 +99,7 @@ The final Excel interactive Dashboard answers the following problem statements
 
 15.	Total Funded amount received from Home owner?
 
-
+---
 
 ## 🔍 Analysis Workflow
 
@@ -115,7 +114,7 @@ Data type formatting
 Outlier detection & correction
 
 
-## 2️⃣ Exploratory Data Analysis (EDA)
+### 2️⃣ Exploratory Data Analysis (EDA)
 
 Income distribution analysis
 
@@ -128,7 +127,7 @@ Loan amount trends
 Loan default pattern analysis
 
 
-## 3️⃣ Visualizations
+### 3️⃣ Visualizations
 
 - Borrower application and income distribution
 
@@ -141,7 +140,7 @@ Loan default pattern analysis
 
 
 
-## 4️⃣ Insights (Replace with your key findings)
+### 4️⃣ Insights (Replace with your key findings)
 
 - Borrowers with hight annual income are significantly more likely to be approved
 
@@ -190,6 +189,17 @@ The file contains all the SQL queries used to extract the KPIs and others values
 
 ### **README** Documentation
 Full project documentation:
+
+# Result & Insights
+
+**Total loan Application** : 38.58k
+**Total Funded Amount** : $473.07M
+**Total Funded Applications** : $435.76M
+**Average Annual income** : $69.64k
+**Average Interest rate** : 12.05%
+**Average Dti** : 13.33%
+
+## Key Findings 
 
 
 
