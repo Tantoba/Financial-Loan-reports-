@@ -57,24 +57,43 @@ This project provides a full analysis of loan application data to understand bor
 Column Description
 
 -Loan_ID Unique loan identifier
+
 -Applicant Address state
+
 -Application Type
+
 -Employee length (years of work)
+
 -Employee Title
+
 -Grade (level)
+
 -Home Ownership 
+
 -Issue Date
+
 -Last payment date
+
 -Loan status
+
 -Purpose
+
 -Loan amount Term 
+
 -Verification status
+
 -Annual income
+
 -Dti
+
 -Installment
+
 -Interest rate
+
 -Loan amount
+
 -Total account
+
 -Total payment
 
 
