@@ -57,28 +57,11 @@ This project provides a full analysis of loan application data to understand bor
 
 Column Description
 
--Loan_ID Unique loan identifier
+-Loan_ID Unique loan identifier | Applicant Address state
 
--Applicant Address state
-
--Application Type
-
--Employee length (years of work)
-
-
--Employee Title
-
--Grade (level)
-
--Home Ownership 
-
--Issue Date
-
--Last payment date
-
--Loan status
-
--Purpose
+|Application Type | Employee length | Employee Title |
+Grade | Home Ownership | Issue Date | Last payment date |
+Loan status | Purpose
 
 -Loan amount Term 
 
@@ -221,5 +204,6 @@ The file contains all the SQL queries used to extract the KPIs and others values
 
 ### **README** Documentation
 Full project documentation:
+
 
 
