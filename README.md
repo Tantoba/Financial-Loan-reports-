@@ -217,7 +217,7 @@ The loan portfolio reflect a very strong overall performance, with good loans ac
 
 Loan applications are highly dominated by high-grade categories (A–C), with a sharp decline toward lower grades (F–G).
 
-**Insight:**
+**Insight:**🔎
 
 This reflects a risk-averse lending strategy, prioritizing borrowers with stronger credit profiles. The limited exposure to low-grade loans helps maintain portfolio stability but may restrict growth opportunities in higher-risk segments.
 
@@ -233,7 +233,7 @@ A significant portion of loans remain unverified
 Verification improves slightly for longer-term loans
 
 
-**Insight:**
+**Insight:**🔎
 
 Unverified loans present a key risk factor, particularly for long-term lending. Strengthening verification requirements could reduce default exposure.
 
@@ -249,7 +249,7 @@ An increase in bad loans during the same period
 Lower activity but improved stability in subsequent quarters
 
 
-**Insight:**
+**Insight:**🔎
 Periods of rapid growth may lead to weaker risk controls, increasing defaults. Seasonal or operational factors should be monitored closely during high-growth quarters.
 
 
@@ -266,7 +266,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 Debt-related purposes (e.g., debt consolidation and credit card refinancing) dominate applications, while purposes such as educational and renewable energy loans are associated with lower income levels.
 
-**Insight:**
+**Insight:**🔎
 Loans driven by debt restructuring signal financial pressure among borrowers and may require stricter eligibility criteria.
 
 
@@ -291,6 +291,7 @@ Improve employment data completeness
 Introduce enhanced monitoring during peak loan growth periods
 
 Apply risk-based pricing or approval rules for debt-related loan purposes
+
 
 
 
