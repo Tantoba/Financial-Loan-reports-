@@ -270,7 +270,43 @@ Debt-related purposes (e.g., debt consolidation and credit card refinancing) dom
 Loans driven by debt restructuring signal financial pressure among borrowers and may require stricter eligibility criteria.
 
 
-7️⃣ **Key Risk Drivers Identified**
+**Loan Applications Trend (Monthly)**
+
+Applications fluctuate throughout the year.
+
+Peak application period: Around May
+
+Lowest application volume: Around June
+
+Recovery is observed towards the end of the year.
+
+
+**Insight:** Loan demand is seasonal, with mid-year dips and strong early/mid-year demand.
+
+
+
+9. **Loan Applications by State**
+
+Higher loan activity is concentrated in more populated and economically active states.
+
+Some states show lighter shades, indicating lower application volumes.
+
+
+ 🔎**Insight:** Geographic concentration suggests opportunities for market expansion in underperforming states.
+
+
+10. **Annual Income by Grade**
+
+Grade B and A customers contribute the highest total income
+
+Income steadily declines from Grade C to G
+
+
+ 🔎**Insight:** Higher-grade borrower* dominate income contribution, indicating lower credit risk and stronger repayment capacity.
+
+
+
+📌 **Key Risk Drivers Identified**
 
 High number of unverified loans
 
@@ -279,6 +315,7 @@ Large share of unknown employment records
 Concentration of defaults during high-growth periods
 
 Debt-driven loan purposes
+
 
 
 
@@ -291,6 +328,7 @@ Improve employment data completeness
 Introduce enhanced monitoring during peak loan growth periods
 
 Apply risk-based pricing or approval rules for debt-related loan purposes
+
 
 
 
