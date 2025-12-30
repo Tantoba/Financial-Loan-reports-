@@ -208,6 +208,92 @@ Full project documentation:
 ## Key Findings 
 
 
+1️⃣ **Overall Performance** 
+
+The loan portfolio reflect a very strong overall performance, with good loans accounting for the majority of applications. However, bad loans still represent a notable financial risk, especially when scaled across large funded amounts . This indicates that while lending policies are effective, there is room for risk optimization.
+
+
+2️⃣ **Loan Grade Distribution**
+
+Loan applications are highly dominated by high-grade categories (A–C), with a sharp decline toward lower grades (F–G).
+
+**Insight:**
+
+This reflects a risk-averse lending strategy, prioritizing borrowers with stronger credit profiles. The limited exposure to low-grade loans helps maintain portfolio stability but may restrict growth opportunities in higher-risk segments.
+
+
+3️⃣ **Verification Status & Loan Term**
+
+Analysis of verification status across 36-month and 60-month loan terms shows:
+
+ Unverified loans dominate total applications in 36-months
+
+A significant portion of loans remain unverified
+
+Verification improves slightly for longer-term loans
+
+
+**Insight:**
+
+Unverified loans present a key risk factor, particularly for long-term lending. Strengthening verification requirements could reduce default exposure.
+
+
+4️⃣ **Quarterly Loan Performance**
+
+Quarterly trends reveal:
+
+Peak loan activity in Q2
+
+An increase in bad loans during the same period
+
+Lower activity but improved stability in subsequent quarters
+
+
+**Insight:**
+Periods of rapid growth may lead to weaker risk controls, increasing defaults. Seasonal or operational factors should be monitored closely during high-growth quarters.
+
+
+
+5️⃣ **Employment & Income Analysis**
+
+Loan applications by employee title show a high volume labeled as “Unknown”, which also accounts for the highest total annual income.
+
+**Insight🔎:**
+Incomplete employment data weakens borrower profiling and may contribute to inaccurate risk assessment. Improving data quality would enhance credit evaluation.
+
+
+6️⃣ **Loan Purpose & Income Levels**
+
+Debt-related purposes (e.g., debt consolidation and credit card refinancing) dominate applications, while purposes such as educational and renewable energy loans are associated with lower income levels.
+
+**Insight:**
+Loans driven by debt restructuring signal financial pressure among borrowers and may require stricter eligibility criteria.
+
+
+7️⃣ **Key Risk Drivers Identified**
+
+High number of unverified loans
+
+Large share of unknown employment records
+
+Concentration of defaults during high-growth periods
+
+Debt-driven loan purposes
+
+
+
+8️⃣ **Business Recommendations**
+
+Enforce stricter verification policies, especially for long-term loans
+
+Improve employment data completeness
+
+Introduce enhanced monitoring during peak loan growth periods
+
+Apply risk-based pricing or approval rules for debt-related loan purposes
+
+
+
 
 
 
