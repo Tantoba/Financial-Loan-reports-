@@ -54,6 +54,9 @@ This project provides a full analysis of loan application data to understand bor
 ## 🧾 Dataset Summary
 
 ### Typical fields in the dataset include:
+- **Source:** drive google.com 
+- **Rows:** Add number of rows
+- **Columns:** Add number of columns
 
 Column Description
 
@@ -416,6 +419,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 -Introduce enhanced monitoring during peak loan growth periods
 
 - Apply risk-based pricing or approval rules for debt-related loan purposes
+
 
 
 
