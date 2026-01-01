@@ -5,37 +5,24 @@ This project provides a full analysis of loan application data to understand bor
 
 ## 📂Repository Structure
 
+
 ├── data/
-
 │ ├── raw/ # Original dataset
-
-│ ├── processed/ # Cleaned dataset
-
-├── notebooks/ 
-
+│ ├── processed/ # Cleaned & transformed dataset
+├── notebooks/
 │ ├── 01_data_cleaning.ipynb
-
 │ ├── 02_eda.ipynb
-
-│ ├── 03_loan_insights.ipynb
-
+│ ├── 03_modeling.ipynb # If machine learning is included
 ├── reports/
-
 │ ├── loan_analysis_report.pdf
-
-│ ├── visualizations/
-
+│ ├── visualization_expohrts/
 ├── src/
-
 │ ├── data_processing.py
-
 │ ├── eda.py
-
 │ ├── utils.py
-
 ├── README.md
-
 └── requirements.txt
+
 ---
 
 ## 🎯 Objectives
@@ -150,7 +137,7 @@ The final Excel interactive Dashboard answers the following problem statements
 
 - 2nd Quarter shows the highest rate of Good and Bad loan application.
 
---
+---
 
 ## 🛠💻Tools Used
 
@@ -421,6 +408,11 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - Apply risk-based pricing or approval rules for debt-related loan purposes
 
 
+## ‍ Author
+**Oba Taofeek Olawale**  
+- GitHub: your-username  
+- **Email: Tantoba01@gmail.com**
+- LinkedIn: 
 
 
 
