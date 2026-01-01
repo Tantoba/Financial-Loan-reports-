@@ -391,38 +391,32 @@ Loan applications by employee title show a high volume labeled as “Unknown”,
 Incomplete employment data weakens borrower profiling and may contribute to inaccurate risk assessment. Improving data quality would enhance credit evaluation.
 
 
-6️⃣ **Loan Purpose & Income Levels**
-
-Debt-related purposes (e.g., debt consolidation and credit card refinancing) dominate applications, while purposes such as educational and renewable energy loans are associated with lower income levels.
-
-**Insight:**🔎
-Loans driven by debt restructuring signal financial pressure among borrowers and may require stricter eligibility criteria.
 
 
 
+📌 ## Key Risk Drivers Identified
 
-📌 **Key Risk Drivers Identified**
+- High number of unverified loans
 
-High number of unverified loans
+- Large share of unknown employment records
 
-Large share of unknown employment records
+- Concentration of defaults during high-growth periods
 
-Concentration of defaults during high-growth periods
-
-Debt-driven loan purposes
+- Debt-driven loan purposes
 
 
 
 
-8️⃣ **Business Recommendations**
+## Business Recommendations
 
-Enforce stricter verification policies, especially for long-term loans
+- Enforce stricter verification policies, especially for long-term loans
 
-Improve employment data completeness
+- Improve employment data completeness
 
-Introduce enhanced monitoring during peak loan growth periods
+-Introduce enhanced monitoring during peak loan growth periods
 
-Apply risk-based pricing or approval rules for debt-related loan purposes
+- Apply risk-based pricing or approval rules for debt-related loan purposes
+
 
 
 
