@@ -179,7 +179,7 @@ The final Excel interactive Dashboard answers the following problem statements
 
 10.**loan application by grade analysis (Box &Whisker):** it shows progressive increase or decrease based on amount of applicantion.
 
-Screenshot](./images/screenshot.png)
+[Megacash 1](Megacash 1.jpg)
 
 ---
 
@@ -414,6 +414,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: Tantoba01
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
