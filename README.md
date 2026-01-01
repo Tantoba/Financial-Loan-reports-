@@ -6,8 +6,7 @@ This project provides a full analysis of loan application data to understand bor
 ## 📂Repository Structure
 
 
-├── data/
-
+├── data/  
 │ ├── raw/ # Original dataset
 
 │ ├── processed/ # Cleaned & transformed dataset
@@ -30,8 +29,7 @@ This project provides a full analysis of loan application data to understand bor
 
 │ ├── data_processing.py
 
-│ ├── eda.py
-
+│ ├── eda.py  
 │ ├── utils.py
 
 ├── README.md
@@ -194,6 +192,7 @@ The final Excel interactive Dashboard answers the following problem statements
 
 10.**loan application by grade analysis (Box &Whisker):** it shows progressive increase or decrease based on amount of applicantion.
 
+Screenshot](./images/screenshot.png)
 
 ---
 
@@ -425,9 +424,10 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 ## ‍ Author
 **Oba Taofeek Olawale**  
-- GitHub: your-username  
-- **Email: Tantoba01@gmail.com**
-- LinkedIn: 
+- GitHub: Tantoba01
+- **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
+- **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
