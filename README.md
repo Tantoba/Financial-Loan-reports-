@@ -69,35 +69,33 @@ Total account | Total payment
 
 The final Excel interactive Dashboard answers the following problem statements 
 
-1.	The Percentage of good and Bad loan ?
+1.	What does the overall loan performance reflect ?
 
-2.	How verification affect Good loan and Bad loan ?
+2.	Why new employees and old workers apply heavily for loan ?
 
-3.	Employee length with the highest loan application ?
+3. Why Mortgage and Rent dominate loan applications?
 
-4.	Total amount of unverified loan application ?
+4. Purpose with the highest loan application and why ?
 
-5.	Purpose with disapproved loan application ?
+5. Effect of verification on Good loan and Bad loan?
 
-6.	 Employee title that are likely to receive approval ?
+6. Monthly Basis loan application trends 
 
-7.	Amount of loan verification based on Term 
+7. Which of the state has the highest loan application ?
 
-8.	Good and Bad loan quarterly trend ?
+8. Which grade contributes to the highest income
 
-9.	Relationship between annual income and loan application by grade ?
+9. What verification status reflect on 36 & 60 month loan term ?
 
-10.	State with highest funded application ?
+10.	which grade are highly dominated with loan applications ?
 
-11.	Loan status affect loan approval 
+11.	Employee_title with the highest annual income ?
 
-12.	Loan application monthly trend 
+12.	What are the loan performance quarterly ?
 
-13.	Loan application based on Grade that are likely to charged off ?
+13.	Which emp_title received the highest loan application ?
 
-14.	Employees length with loan application disapproved?
-
-15.	Total Funded amount received from Home owner?
+14. Which purpose of the purpose has the least annual income?
 
 ---
 
@@ -130,7 +128,6 @@ Loan default pattern analysis
 ### 3️⃣ Visualizations
 
 - Borrower application and income distribution
-
 - Loan application rate by Application type, purpose and verification 
 
 - Loan amount vs. default risk performance 
@@ -191,6 +188,7 @@ The file contains all the SQL queries used to extract the KPIs and others values
 Full project documentation:
 
 # Result & Insights
+
 ### Key Performance Indicators (KPIs)
 
 **Total loan Application** : 38.58k
@@ -208,45 +206,152 @@ Full project documentation:
 ## Key Findings 
 
 
-1️⃣ **Overall Performance** 
+ **Overall Performance** 
 
-The loan portfolio reflect a very strong overall performance, with good loans accounting for the majority of applications. However, bad loans still represent a notable financial risk, especially when scaled across large funded amounts . This indicates that while lending policies are effective, there is room for risk optimization.
-
-
-2️⃣ **Loan Grade Distribution**
-
-Loan applications are highly dominated by high-grade categories (A–C), with a sharp decline toward lower grades (F–G).
-
-**Insight:**🔎
-
-This reflects a risk-averse lending strategy, prioritizing borrowers with stronger credit profiles. The limited exposure to low-grade loans helps maintain portfolio stability but may restrict growth opportunities in higher-risk segments.
+The loan portfolio reflect a very strong overall performance, with good loans accounting for the majority of applications. However, bad loans still represent a notable financial risk,over $61M is tied to bad loans,
+representing real financial exposure. Reducing bad loans even slightly could save millions. especially when scaled across large funded amounts . This indicates that while lending policies are effective, there is room for risk optimization.
 
 
-3️⃣ **Verification Status & Loan Term**
+ **Monthly Performance (MTD & MoM)**
 
-Analysis of verification status across 36-month and 60-month loan terms shows:
+Loan Applications MoM Growth: +8.75%
 
- Unverified loans dominate total applications in 36-months
+Funded Amount MoM Growth: +8.70%
 
-A significant portion of loans remain unverified
-
-Verification improves slightly for longer-term loans
+Funded Applications MoM Growth: +10.15%
 
 
-**Insight:**🔎
+🔎 **Interpretation:**
+Loan demand and funding are growing steadily month-over-month, indicating increased customer activity and business expansion.
+
+2️⃣ **Employee Length vs Loan Applications**
+
+Highest applications come from:
+
+10+ years
+
+< 1 year
+
+2–5 years
+
+
+🔎 **Interpretation:**
+
+- Both new employees and long-tenured workers apply heavily for loans. This suggests:
+
+- New employees may need financial support early for stability.
+
+- Long-term employees likely have stronger credit confidence which enables them to apply for more to sustain themselves.
+
+3️⃣ **Home Ownership Impact**
+
+- Mortgage: ~48%
+
+- Rent: ~45%
+
+- Own: ~7%
+
+🔎 **Interpretation:**
+
+- Most loan applicants are either renters or mortgage holders, while outright homeowners apply far less. This could mean:
+
+- They are higher demand for loans among financially active households.
+
+- Renters and mortgage holders may carry higher financial pressure as a result of their household expenses.
+
+
+4️⃣ **Loan Purpose Analysis**
+
+- Top loan purposes include:
+
+- Debt consolidation (highest)
+
+- Credit card refinancing
+
+🔎 **Interpretation:**
+Loans are largely used to manage or restructure existing debt, not luxury spending. This highlights customers’ focus on financial stability, but also indicates high debt dependency.
+
+
+5️⃣ **Verification Status**
+
+- Verified: 16.46K
+
+- Source Verified: 12.34K
+
+- Not Verified: 9.78K
+
+🔎 **Interpretation:**
+A sizable number of loans are not fully verified, which may contribute to the bad loan percentage. Verification quality appears to be a key risk factor.
+
+
+6️⃣ **Loan Applications Trend (Monthly)**
+
+- Applications fluctuate throughout the year.
+
+- Peak application period: Around May
+
+- Lowest application volume: Around Nov
+
+- Recovery is observed towards the end of the year.
+
+🔎 **Insight:**
+Loan demand is seasonal, with mid-year dips and strong early/mid-year demand.
+
+
+7️⃣ **Loan Applications by State**
+
+- Higher loan activity is concentrated in more populated and economically active states.
+
+- Some states show lighter shades, indicating lower application volumes.
+
+ 🔎 **Insight:**
+ Geographic concentration suggests opportunities for market expansion in underperforming states.
+
+
+8️⃣ **Annual Income by Grade**
+
+- Grade B and A customers contribute the highest total income
+
+- Income steadily declines from Grade C to G
+
+ 🔎**Insight:** 
+ Higher-grade borrower* dominate income contribution, indicating lower credit risk and stronger repayment capacity.
+
+
+9️⃣ **Verification Status & Loan Term**
+
+- Analysis of verification status across 36-month and 60-month loan terms shows:
+
+ - Unverified loans dominate total applications in 36-months
+
+- A significant portion of loans remain unverified
+
+- Verification improves slightly for longer-term loans
+
+**Insight:** 🔎
 
 Unverified loans present a key risk factor, particularly for long-term lending. Strengthening verification requirements could reduce default exposure.
 
 
-4️⃣ **Quarterly Loan Performance**
+🔟 **Loan Grade Distribution**
+
+Loan applications are highly dominated by high-grade categories (A–C), with a sharp decline toward lower grades (F–G).
+
+🔎**Insight:**
+
+This reflects a risk-averse lending strategy, prioritizing borrowers with stronger credit profiles. The limited exposure to low-grade loans helps maintain portfolio stability but may restrict growth opportunities in higher-risk segments.
+
+
+
+1️⃣1️⃣ **Quarterly Loan Performance**
 
 Quarterly trends reveal:
 
-Peak loan activity in Q2
+- Peak loan activity in Q2
 
-An increase in bad loans during the same period
+- An increase in bad loans during the same period
 
-Lower activity but improved stability in subsequent quarters
+- Lower activity but improved stability in subsequent quarters
 
 
 **Insight:**🔎
@@ -254,11 +359,11 @@ Periods of rapid growth may lead to weaker risk controls, increasing defaults. S
 
 
 
-5️⃣ **Employment & Income Analysis**
+1️⃣2️⃣ **Employment & Income Analysis**
 
 Loan applications by employee title show a high volume labeled as “Unknown”, which also accounts for the highest total annual income.
 
-**Insight🔎:**
+**Insight:** 🔎
 Incomplete employment data weakens borrower profiling and may contribute to inaccurate risk assessment. Improving data quality would enhance credit evaluation.
 
 
@@ -269,40 +374,6 @@ Debt-related purposes (e.g., debt consolidation and credit card refinancing) dom
 **Insight:**🔎
 Loans driven by debt restructuring signal financial pressure among borrowers and may require stricter eligibility criteria.
 
-
-**Loan Applications Trend (Monthly)**
-
-Applications fluctuate throughout the year.
-
-Peak application period: Around May
-
-Lowest application volume: Around June
-
-Recovery is observed towards the end of the year.
-
-
-**Insight:** Loan demand is seasonal, with mid-year dips and strong early/mid-year demand.
-
-
-
-9. **Loan Applications by State**
-
-Higher loan activity is concentrated in more populated and economically active states.
-
-Some states show lighter shades, indicating lower application volumes.
-
-
- 🔎**Insight:** Geographic concentration suggests opportunities for market expansion in underperforming states.
-
-
-10. **Annual Income by Grade**
-
-Grade B and A customers contribute the highest total income
-
-Income steadily declines from Grade C to G
-
-
- 🔎**Insight:** Higher-grade borrower* dominate income contribution, indicating lower credit risk and stronger repayment capacity.
 
 
 
@@ -328,6 +399,7 @@ Improve employment data completeness
 Introduce enhanced monitoring during peak loan growth periods
 
 Apply risk-based pricing or approval rules for debt-related loan purposes
+
 
 
 
