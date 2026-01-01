@@ -7,33 +7,20 @@ This project provides a full analysis of loan application data to understand bor
 
 
 ├── data/  
-│ ├── raw/ # Original dataset
-
-│ ├── processed/ # Cleaned & transformed dataset
-
-├── notebooks/
-
-│ ├── 01_data_cleaning.ipynb
-
-│ ├── 02_eda.ipynb
-
-│ ├── 03_modeling.ipynb # If machine learning is included
-
-├── reports/
-
-│ ├── loan_analysis_report.pdf
-
-│ ├── visualization_expohrts/
-
-├── src/
-
-│ ├── data_processing.py
-
-│ ├── eda.py  
-│ ├── utils.py
-
-├── README.md
-
+│ ├── raw/ # Original dataset    
+│ ├── processed/ # Cleaned & transformed dataset   
+├── notebooks/   
+│ ├── 01_data_cleaning.ipynb  
+│ ├── 02_eda.ipynb   
+│ ├── 03_modeling.ipynb # If machine learning is included   
+├── reports/      
+│ ├── loan_analysis_report.pdf   
+│ ├── visualization_expohrts/    
+├── src/   
+│ ├── data_processing.py    
+│ ├── eda.py    
+│ ├── utils.py   
+├── README.md    
 └── requirements.txt
 
 ---
@@ -427,6 +414,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: Tantoba01
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
