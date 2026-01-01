@@ -7,20 +7,35 @@ This project provides a full analysis of loan application data to understand bor
 
 
 ├── data/
+
 │ ├── raw/ # Original dataset
+
 │ ├── processed/ # Cleaned & transformed dataset
+
 ├── notebooks/
+
 │ ├── 01_data_cleaning.ipynb
+
 │ ├── 02_eda.ipynb
+
 │ ├── 03_modeling.ipynb # If machine learning is included
+
 ├── reports/
+
 │ ├── loan_analysis_report.pdf
+
 │ ├── visualization_expohrts/
+
 ├── src/
+
 │ ├── data_processing.py
+
 │ ├── eda.py
+
 │ ├── utils.py
+
 ├── README.md
+
 └── requirements.txt
 
 ---
@@ -42,8 +57,8 @@ This project provides a full analysis of loan application data to understand bor
 
 ### Typical fields in the dataset include:
 - **Source:** drive google.com 
-- **Rows:** Add number of rows
-- **Columns:** Add number of columns
+- **Rows:** 38577
+- **Columns:** 22
 
 Column Description
 
@@ -413,6 +428,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: your-username  
 - **Email: Tantoba01@gmail.com**
 - LinkedIn: 
+
 
 
 
