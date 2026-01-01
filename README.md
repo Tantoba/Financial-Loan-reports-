@@ -179,8 +179,8 @@ The final Excel interactive Dashboard answers the following problem statements
 
 10.**loan application by grade analysis (Box &Whisker):** it shows progressive increase or decrease based on amount of applicantion.
 
-[Megacash 1](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%201.jpg)
-[Megacash 2](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%202.jpg)
+[Megacash 1](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%201.jpg)   
+[Megacash 2](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%202.jpg)   
 ---
 
 ## Data
@@ -188,11 +188,11 @@ The final Excel interactive Dashboard answers the following problem statements
 The original dataset used for this analysis can be found in the folder below:
 
 Financial Loan Reports :
-[Download here](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z?usp=sharing)
+[Download here](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/financial_loan_data_excel.csv)
 
 ### Visualization
 Interactive Excel dashboard:
-[View Excel Dashboard]
+[View Excel Dashboard](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/financial_loan_data_excel%20Project.xlsx)
 
 ## SQL File
 The file contains all the SQL queries used to extract the KPIs and others values 
@@ -414,6 +414,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: Tantoba01
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
