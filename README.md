@@ -169,25 +169,25 @@ The final Excel interactive Dashboard answers the following problem statements
 ## Dashboard Overview
 
 ### Chart
-1. Monthly trends by payment date (line chart): To identify seasonal and long-term trends in lending activities.
+1. **Monthly trends by payment date (line chart):** To identify seasonal and long-term trends in lending activities.
 
-2. Regional Analysis by State (Filled map): To identify state with high lending activities and assess regional disparity.
+2. **Regional Analysis by State (Filled map):** To identify state with high lending activities and assess regional disparity.
 
-3. Employee_length application analysis (Hierarchy chart): Used to compare the level of loan application between new employees and old workers.
+3. **Employee_length application analysis (Hierarchy chart):** Used to compare the level of loan application between new employees and old workers.
 
-4. Home Owner Analysis (pie chart ): To reflect the level at which Mortgage and Rent dominate loan application .
+4. **Home Owner Analysis (pie chart ):** To reflect the level at which Mortgage and Rent dominate loan application .
 
-5. Loan Based on Purpose (Stacked column): To identify and compare how each purposes as a whole changes.
+5. **Loan Based on Purpose (Stacked column):** To identify and compare how each purposes as a whole changes.
 
-6. Loan verification analysis ( funnel chart): it's used to show progressive increase or decrease in proportion.
+6. **Loan verification analysis ( funnel chart):** it's used to show progressive increase or decrease in proportion.
 
-7. Overall loan profile (Doughnut chart): To reflect the proportion of Good and Bad loans
+7. **Overall loan profile (Doughnut chart):** To reflect the proportion of Good and Bad loans
 
-8. Loan Application quarterly (stacked Bar): it's used to present Good and Bad loan on quarterly Basis.
+8. **Loan Application quarterly (stacked Bar):** it's used to present Good and Bad loan on quarterly Basis.
 
-9. Top Employee_title loan analysis (Waterfall): Used to represent increased and decrease in loan application across the title.
+9. **Top Employee_title loan analysis (Waterfall):** Used to represent increased and decrease in loan application across the title.
 
-10.loan application by grade analysis (Box &Whisker): it shows progressive increase or decrease based on amount of applicantion.
+10.**loan application by grade analysis (Box &Whisker):** it shows progressive increase or decrease based on amount of applicantion.
 
 
 ---
@@ -423,6 +423,7 @@ Improve employment data completeness
 Introduce enhanced monitoring during peak loan growth periods
 
 Apply risk-based pricing or approval rules for debt-related loan purposes
+
 
 
 
