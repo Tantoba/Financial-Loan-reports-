@@ -208,7 +208,7 @@ The original dataset used for this analysis can be found in the folder below:
 
 
 ### **README** Documentation
-Full project documentation:
+Full project documentation: [Loan Report README](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Loan%20%20report%20Readme.docx)
 
 # Result & Insights
 
@@ -393,7 +393,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 
 
-📌 ## Key Risk Drivers Identified
+## Key Risk Drivers Identified
 
 - High number of unverified loans
 
@@ -422,6 +422,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
