@@ -41,10 +41,10 @@ This project provides a full analysis of loan application data to understand bor
 ## 🧾 Dataset Summary
 
 ### Typical fields in the dataset include:
-- **Source:** This dataset was downloaded from a Google Drive link provided in a YouTube video tutorial.
-The dataset is used strictly for learning and portfolio purposes.
-Original data source was not specified.
- 
+- **Source:** This project uses a dataset obtained from a publicly shared Google Drive link
+originally referenced in a YouTube tutorial.
+All credit for the dataset goes to the original creator.
+
 - **Rows:** 38577
 - **Columns:** 22
 
@@ -422,6 +422,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
