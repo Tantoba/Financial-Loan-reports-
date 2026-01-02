@@ -416,12 +416,20 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 - Apply risk-based pricing or approval rules for debt-related loan purposes
 
+## Appreciation
+
+I would like to sincerely appreciate my colleagues and mentors who provided
+guidance, feedback, and encouragement during the course of this project.
+Their insights and support contributed greatly to the successful completion
+of this analysis.
+
 
 ## ‍ Author
 **Oba Taofeek Olawale**  
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
