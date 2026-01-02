@@ -1,4 +1,4 @@
-# Financial-Loan-reports-
+I# Financial-Loan-reports-
 ## Project Overview
 
 This project provides a full analysis of loan application data to understand borrower characteristics, credit behavior, loan approval factors, and overall loan performance. It includes data cleaning, exploratory data analysis (EDA), visualization, and insights relevant for financial decision-making.
@@ -182,7 +182,7 @@ The final Excel interactive Dashboard answers the following problem statements
 
 10.**loan application by grade analysis (Box &Whisker):** it shows progressive increase or decrease based on amount of applicantion.
 
-##Dashboard Images 
+##Dashboard Images     
 [Megacash 1](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%201.jpg)   
 [Megacash 2](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%202.jpg)     
 [Meagacash 3](https://github.com/Tantoba/Financial-Loan-reports-/blob/main/Megacash%203.jpg)
@@ -422,6 +422,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
