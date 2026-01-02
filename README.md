@@ -408,7 +408,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 - Improve employment data completeness
 
--Introduce enhanced monitoring during peak loan growth periods
+- Introduce enhanced monitoring during peak loan growth periods
 
 - Apply risk-based pricing or approval rules for debt-related loan purposes
 
@@ -418,6 +418,7 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
