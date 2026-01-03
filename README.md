@@ -6,11 +6,11 @@ This project provides a full analysis of loan application data to understand bor
 ## 📂Repository Structure
 
 
-project-folder
-│── data
-│── scripts
-│── visuals
-│── README.md
+project-folder  
+│── data  
+│── scripts  
+│── visuals  
+│── README.md  
 
 ---
 
@@ -418,6 +418,7 @@ of this analysis.
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
