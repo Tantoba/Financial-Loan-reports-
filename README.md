@@ -380,8 +380,6 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 
 
-
-
 ## Key Risk Drivers Identified
 
 - High number of unverified loans
@@ -394,7 +392,6 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 
 
 
-
 ## Business Recommendations
 
 - Enforce stricter verification policies, especially for long-term loans
@@ -404,6 +401,14 @@ Incomplete employment data weakens borrower profiling and may contribute to inac
 - Introduce enhanced monitoring during peak loan growth periods
 
 - Apply risk-based pricing or approval rules for debt-related loan purposes
+
+
+## Conclusion    
+
+This Report reflect the overall performance across key metrics, the trend analysis indicates performance is highly driven by few dominant categories with noticeable increase and decrease across specific periods.
+Growth not been consistent indicate seasonal, potential external or operational and time-based instability influence on the performance.   
+Overall, The dashboard shows stable performance, but strategic planning to optimize the underperforming segments should be considered to improve total Outcomes.
+
 
 ## Appreciation
 
@@ -418,6 +423,7 @@ of this analysis.
 - GitHub: [https://github.com/Tantoba/Financial-Loan-reports-](https://github.com/Tantoba/Financial-Loan-reports-)
 - **Email:** [Tantoba01@gmail.com](tantoba01@gmail.com )
 - **LinkedIn:** [https://www.linkedin.com/in/Oba-taofeek-olawale](https://www.linkedin.com/in/oba-taofeek-olawale?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 
